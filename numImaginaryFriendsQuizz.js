@@ -1,0 +1,1 @@
+let numImaginaryFriends = num => Math.ceil(num/4);
